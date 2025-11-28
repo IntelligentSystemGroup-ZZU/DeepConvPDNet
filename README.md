@@ -34,3 +34,12 @@ dual neural network. We investigate the proposed networks on the
  are obtained in comparison with twelve methods including state
 of-the-art methods (e.g. Restormer, DRUNet, and DeblurGAN),
  which validated its effectiveness.
+
+
+## Network Architecture
+
+<img width="1019" height="571" alt="image" src="https://github.com/user-attachments/assets/bc747478-5f2a-45aa-844d-4977b0f1b567" />
+
+
+
+## Experimental Results
