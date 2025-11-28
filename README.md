@@ -44,6 +44,8 @@ of-the-art methods (e.g. Restormer, DRUNet, and DeblurGAN),
 
 ## Experimental Results
 
+### MNIST
+
 COMPARISON RESULTS (PSNR/SSIM) OF DIFFERENT METHODS ON MNIST DATASETS FROM DIFFERENT DEGRADATION CONFIGURATIONS.
 
 <img width="854" height="420" alt="image" src="https://github.com/user-attachments/assets/48f2f20c-2c3a-4c35-9cdc-55be98fe3eae" />
@@ -51,6 +53,7 @@ COMPARISON RESULTS (PSNR/SSIM) OF DIFFERENT METHODS ON MNIST DATASETS FROM DIFFE
 <img width="1106" height="485" alt="image" src="https://github.com/user-attachments/assets/b03de3ad-3dd9-458e-b882-fdc35e072f44" />
 
 
+### BSD68
 
 COMPARISON RESULTS (PSNR/SSIM) OF DIFFERENT METHODS ON BSD68 DATASETS FROM DIFFERENT DEGRADATION CONFIGURATIONS.
 
@@ -59,6 +62,7 @@ COMPARISON RESULTS (PSNR/SSIM) OF DIFFERENT METHODS ON BSD68 DATASETS FROM DIFFE
 <img width="1170" height="689" alt="image" src="https://github.com/user-attachments/assets/d1017197-c6fa-4983-ab3a-858c9c0d7368" />
 
 
+### BSD100
 
 COMPARISON RESULTS (PSNR/SSIM) OF DIFFERENT METHODS ON BSD100 DATASETS FROM DIFFERENT DEGRADATION CONFIGURATIONS.
 
