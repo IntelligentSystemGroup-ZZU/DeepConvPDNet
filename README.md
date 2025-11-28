@@ -1,4 +1,4 @@
-# Deep Convolutional Primal-Dual Network for Image Deblurring
+# Deep Convolutional Primal-Dual Network
 
 Mingyuan Jiu, Mingjing Peng, Fanfan Zhang
 
